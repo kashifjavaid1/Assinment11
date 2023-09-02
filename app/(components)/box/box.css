@@ -1,0 +1,33 @@
+.propsheading{
+    color: white;
+    text-align: center;
+   padding-top: 25%;
+   cursor: pointer;
+
+}
+.propsheading:hover{
+   color: aqua;
+
+}
+
+.silver-box {
+    width: 350px;
+    height: 250px;
+    background-color: rgba(192, 192, 192, 0.814);
+}
+.silver-box:hover{
+    background-color: violet;
+}
+.cardrank{
+position: relative;
+top: 18vh;
+margin-left: 25vh;
+font-size: medium;
+}
+.cardpera{
+    font-weight: lighter;
+    position: relative;
+    top: 18vh;
+    margin-left: 25vh;
+    font-size: medium;
+}

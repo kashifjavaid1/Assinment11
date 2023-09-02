@@ -1,0 +1,28 @@
+.footerrow{
+    display: flex;
+    background-color:azure;
+    height: 60vh;
+}
+.col{
+    gap: 100px;
+    margin-left: 110px;
+    position: relative;
+    top: 100px;
+}
+.col p:hover{
+    color:aqua;
+    cursor: pointer;
+}
+.col h4:hover{
+    color: blue;
+    cursor: pointer;
+}
+.col h1:hover{
+    color: blue;
+}
+.coptright{
+    text-align: center;
+    background-color: azure;
+    height: 30vh;
+    cursor: pointer;
+}

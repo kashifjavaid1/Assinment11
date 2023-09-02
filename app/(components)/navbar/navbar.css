@@ -1,0 +1,56 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+   
+   
+}
+.container-fluid{
+    overflow: hidden;
+   background-color: blue;
+   color: white;
+    display: flex;
+    justify-content: space-between;
+    height: 60%;
+    
+}
+.logo{
+   position: relative;
+   top: 25px;
+   left: 12%;
+   cursor: pointer;
+   font-size: 20px;
+   font-weight: bold;
+   color: white;
+}
+ul{
+    display: flex;
+    position: relative;
+    bottom: 10px;
+   list-style: none;
+   color: white;
+}
+ul,li{
+    margin: 20px;
+    font-size: 14px;
+    font-weight: bold;
+    color: white;
+}
+ul,li,a{
+    color: white;
+    text-decoration: none;
+}
+.search{
+    color: white;
+    font-size: 15px;
+   position: relative;
+   top: 0px;
+   right: 12%;
+   padding: 5px; 
+   margin: 15px; 
+}
+.search,input{
+    padding: 5px;
+    border-radius: 30px;
+}
+

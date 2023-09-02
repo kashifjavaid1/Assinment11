@@ -1,0 +1,180 @@
+.header{
+    position: relative;
+    bottom: 40%;
+    color: white;
+    cursor: pointer;
+}
+h1{
+  padding-left: 12%;
+  cursor: pointer;
+}
+.parnav{
+    padding-left: 12%; 
+    cursor: pointer;
+}
+#serpera{
+position: relative;
+bottom:130px;
+right: 10px;
+color: blue;
+font-weight: bold;
+cursor: pointer;
+display: flex;
+justify-content: center;
+}
+#serheading{
+    position: relative;
+    bottom:130px;
+    right: 70px;
+    display: flex;
+    justify-content: center;
+}
+.cardrow{
+    display: flex;
+    justify-content: center;
+    gap: 20px 50px;
+    position: relative;
+    bottom: 60px;
+    height: 40%;
+}
+/* .blue-card{
+    background-color: aquamarine;
+} */
+.aboutusdection{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.aboutasimagies{
+    position: relative;
+    cursor: pointer;
+    /* left: 10%; */
+}
+
+.aboutpera{
+    margin-left: 60px;
+    position: relative;
+    top:20px;
+    color: blue;
+    font-weight: bold;
+
+}
+.aboutpera1{
+    margin-left: 60px;
+   text-align: justify;
+}
+.abouheading{
+    position: relative;
+    right: 30px;
+}
+.aboutrow{
+    display: flex;
+    height: 40%;
+    width: 90%;
+    position: relative;
+    top: 20%;
+    left: 5%;
+    background-color: rgb(217, 244, 235);
+}
+.portfoliosection{
+    background-color: rgba(192, 192, 192, 0.733);
+    height: 120vh;
+}
+.peraportfolio{
+    margin-top: 20%;
+    padding-left:12%;
+    position: relative;
+    top: 60px;
+    color: blue;
+}
+.headportfolio{
+  position: relative;
+  top: 60px;
+  
+}
+.rowportfoilio{
+    display: flex; 
+    justify-content: center;
+     gap: 35px;
+    position: relative; 
+    top: 10%; 
+    cursor: pointer; 
+}
+.rowportfoilio1{
+    display: flex; 
+    justify-content: center;
+     gap: 35px;
+    position: relative; 
+    top: 15%;  
+}
+.ourteamsec{
+    background-color:azure;
+    height: 70vh;
+}
+.ourteam{
+    text-align: center;
+}
+.ourpera{
+    color: blue;
+    cursor: pointer;
+}
+.ourteamcard{
+    display: flex; 
+    justify-content: center;
+     gap: 35px;
+    position: relative; 
+    top: 10%; 
+    cursor: pointer; 
+    height: 30vh;
+}
+.ourpricing{
+    background-color:silver;
+    height: 120vh; 
+
+}
+.fsecpricing{
+    margin-left: 25vh;
+    position: relative;
+    top: 20%;
+    cursor: pointer;
+}
+.ourpera{
+    cursor: pointer;
+   color: blue;
+}
+
+.ourpricingcard{
+    display: flex; 
+    justify-content: center;
+     gap: 35px;
+    cursor: pointer; 
+    height: 40vh;
+    margin-top: 10%;
+}
+.section1{
+    background-color: blue;
+    height: 70vh;
+}
+.sectionheading{
+    text-align: center;
+    color: white;
+    padding: 25px;
+}
+.secondcard{
+    display: flex;
+    justify-content: center;
+   color: blue;
+    gap: 25px;
+    margin-top: 70px;
+    
+}
+.blogrow{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 10%;
+    background-color: silver;
+}
+/* .cardrow{
+    display: flex;
+} */

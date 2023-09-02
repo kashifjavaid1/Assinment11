@@ -1,0 +1,32 @@
+.card1{
+    display: flex;
+    justify-content: center;
+    margin-top: 60px;
+    width: 350px;
+    border: 3px white solid;
+    height: 70vh;
+}
+.cardimage1{
+    position: relative;
+    top:15%;
+    cursor: pointer;
+    border-radius:200px;
+}
+.proheaging{
+position: relative;
+left: 80px;
+top: 6%;
+}
+.peradhead1{
+    font-size: 20px;
+    font-weight: bold;
+}
+.carddata{
+  margin-top: 20vh;
+ position: relative;
+ right: 60px;
+}
+.card1:hover{
+    background-color: blue;
+    color: white;
+}

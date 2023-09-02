@@ -1,0 +1,6 @@
+.loacation{
+    display: flex;
+    justify-content: center;
+    gap:200px;
+    align-items: center;
+}

@@ -1,0 +1,26 @@
+.aboutcard{
+
+    display: flex;
+    justify-content:space-around;
+}
+.aboutasimagiescard{
+    position: relative;
+    top: 70px;
+    left: 150px;
+    cursor: pointer;
+
+}
+.aboutheadeing3{
+    display: flex;
+    position: relative;
+    top: 130px;
+    left: 80px;
+    cursor: pointer;
+}
+.aboutpera3{
+    position: relative;
+    top: 200px; 
+    right: 60px;
+    text-align: justify;
+    cursor: pointer;
+}

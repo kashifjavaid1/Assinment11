@@ -1,0 +1,12 @@
+.btn1{
+    background-color: rgba(52, 230, 230, 0.607);
+    color: white;
+    border-radius: 20px;
+    margin-left: 12%; 
+    padding: 5px;
+   position: relative;
+   bottom: 15px;
+}
+.btn1:hover{
+    background-color: aqua;
+}
